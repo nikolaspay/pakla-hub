@@ -1,0 +1,5 @@
+PASS: largest-first review and checkbox exclusion persist into cleanup selection.
+PASS: reduced-motion stops cleaner animation.
+PASS: category bounds at 360 / 800 / 1400 pixels.
+PASS: age changes invalidate snapshot, exclusions and cleanup button.
+PASS: engine fixtures protect fresh / locked / changed / read-only files and reject traversal.

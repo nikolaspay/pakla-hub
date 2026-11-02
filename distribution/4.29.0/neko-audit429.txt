@@ -1,0 +1,1 @@
+PASS: Neko native WebView2 loads bundled page/media at 480 and 1240 px; no horizontal overflow; two site actions; view disposed on navigation.
