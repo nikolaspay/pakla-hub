@@ -1,6 +1,6 @@
 {
-    "Version":  "4.29.0",
-    "Url":  "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.29.0/PaklaHub-4.29.0.pakpatch",
-    "Sha256":  "e0ad37be0f5e12b4c9de48b7b2acc62435833cc22f5f27e709780d7b1ce793d5",
-    "Notes":  "4.29: Neko App bölümü; uygulama içi fragman, logo ve web sitesi bağlantısı. Yenilenen Pakla Clean, dosya bazında seçim ve simetrik yerleşim."
+    "Version":  "4.29.1",
+    "Url":  "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.29.1/PaklaHub-4.29.1.pakpatch",
+    "Sha256":  "824bc66b7f304029d43e9a4234cb8fa61eabd85b21ab532f5bd22c9b8b01498a",
+    "Notes":  "4.29.1: Neko App arkadaşımızın bağımsız projesi olarak düzeltildi. Neko sayfasına mavi/turkuaz renkler, renkli kartlar ve hafif animasyonlar eklendi."
 }
