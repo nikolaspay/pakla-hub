@@ -1,6 +1,6 @@
 {
-    "Version":  "4.29.1",
-    "Url":  "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.29.1/PaklaHub-4.29.1.pakpatch",
-    "Sha256":  "824bc66b7f304029d43e9a4234cb8fa61eabd85b21ab532f5bd22c9b8b01498a",
-    "Notes":  "4.29.1: Neko App arkadaşımızın bağımsız projesi olarak düzeltildi. Neko sayfasına mavi/turkuaz renkler, renkli kartlar ve hafif animasyonlar eklendi."
+  "Version": "4.31.1",
+  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.31.1/PaklaHub-4.31.1.pakpatch",
+  "Sha256": "263025e874692f8da55ff07e0a0ffc24071045cfaa6092bf5ffcf2deba19e524",
+  "Notes": "4.31.1: Pakla DNS (Windows 11), önceki DNS ayarına dönüş, Pakla Audio, Pakla Driver, Neko/Pakla çeviri kütüphanesi ve topluluk/DM geliştirmeleri. Pakla Audio yalnız Pakla Müzik sesini işler."
 }
