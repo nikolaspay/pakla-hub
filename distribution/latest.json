@@ -1,6 +1,6 @@
 {
-  "Version": "4.31.1",
-  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.31.1/PaklaHub-4.31.1.pakpatch",
-  "Sha256": "263025e874692f8da55ff07e0a0ffc24071045cfaa6092bf5ffcf2deba19e524",
-  "Notes": "4.31.1: Pakla DNS (Windows 11), önceki DNS ayarına dönüş, Pakla Audio, Pakla Driver, Neko/Pakla çeviri kütüphanesi ve topluluk/DM geliştirmeleri. Pakla Audio yalnız Pakla Müzik sesini işler."
+  "Version": "4.32.0",
+  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.0/PaklaHub-4.32.0.pakpatch",
+  "Sha256": "7f48990bdd2826264bce92c69b15a90a16d6c4dc5005e268cc727db0cb9d83bd",
+  "Notes": "4.32.0: Hafif ana kurulum, isteğe bağlı bileşenler, oyun başına GitHub yama indirmesi, araç başına bir kez onaylanan kullanım koşulları, okunaklı sohbet filtreleri ve net katalog durumları."
 }

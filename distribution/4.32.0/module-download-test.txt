@@ -1,0 +1,1 @@
+PASS: actual ModuleStore downloader fetched Neko module from GitHub, verified embedded digest and opened its trailer resource.

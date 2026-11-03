@@ -1,17 +1,15 @@
 # Pakla Hub
 
-Güncel sürüm: **4.31.1**.
+Güncel sürüm: **4.32.0**.
 
 [Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe)
 
-Pakla DNS · Pakla Audio · Pakla Driver · Neko Çeviri × Pakla Çeviri · Pakla Clean · Pakla Game Boost · Klip kütüphanesi · Topluluklar ve DM.
+Hafif ana kurulum · İsteğe bağlı çeviri/klip motoru/Neko medyası · Araç başına kullanım koşulları · Pakla DNS · Pakla Audio · Pakla Driver · Topluluk ve DM.
 
-Pakla DNS, Windows 11'de Cloudflare üzerinden şifreli DNS ayarlar; VPN değildir. Pakla Audio bu sürümde yalnız Pakla Müzik sesini işler. Neko App, arkadaşımızın bağımsız projesidir.
+Çeviriler GitHub'dan oyun başına indirilir. Townfall/Reunion paketleri henüz yoktur; iki ek yükleyicinin güvenlik kapısı korunur. Katalog doğrulaması oyun içi test onayı değildir. Pakla DNS Windows 11 gerektirir. Pakla Audio yalnız Pakla Müzik sesini işler.
 
-X uygulamayı tepsiye küçültür; açık kayıt ve sohbet sürer. Tamamen çıkmak için tepsi menüsünü kullan.
+X uygulamayı tepsiye küçültür. Tamamen çık, tepsi menüsündedir. Otomatik güncelleme açıksa uygulama yeniden başlatıldığında imzalı paket doğrulanarak alınır.
 
-4.23 ve sonrası kurulumlar, açılışta güncellemeyi kontrol eder; RSA imzası ve SHA-256 doğrulandıktan sonra yükler. Tercih Otomasyon bölümündedir. Eski sürümler yukarıdaki kurulumu kullanabilir. Ağ hatasında mevcut sürüm açılır.
+[Sürüm notları ve test sınırları](distribution/4.32.0/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.0/SHA256SUMS.txt)
 
-[Sürüm notları ve test sınırları](distribution/4.31.1/RELEASE-NOTES.md) · [SHA-256](distribution/4.31.1/SHA256SUMS.txt)
-
-Canlı DNS aç/kapat ve DoH trafiği, gerçek sürücü kurulumu, katalog oyunlarında oyun içi uyumluluk ve iki hesaplı sosyal akış bu sürüm çalışmasında uçtan uca denenmedi. Çevirilerde Steam/EXE açılış kilidi yoktur; iki kurulum güvenlik kapısı korunur. Windows Authenticode sertifikası yapılandırılmadı; güncelleme RSA imzası ayrı mekanizmadır. Kaynak kodları herkese açık değildir.
+Windows Authenticode sertifikası yapılandırılmamıştır; RSA güncelleme imzası ayrı mekanizmadır. Kaynak kodu özel kurtarma deposunda saklanır.
