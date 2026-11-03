@@ -1,0 +1,2 @@
+7f48990bdd2826264bce92c69b15a90a16d6c4dc5005e268cc727db0cb9d83bd  PaklaHub-4.32.0.pakpatch
+b15c206ae13f59e020fcac9c5a656aba65a9858d250e02472a9b56b9bb92f3a0  PaklaHub-Kurulum.exe

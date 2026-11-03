@@ -1,0 +1,6 @@
+{
+  "Version": "4.32.0",
+  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.0/PaklaHub-4.32.0.pakpatch",
+  "Sha256": "7f48990bdd2826264bce92c69b15a90a16d6c4dc5005e268cc727db0cb9d83bd",
+  "Notes": "4.32.0: Hafif ana kurulum, isteğe bağlı bileşenler, oyun başına GitHub yama indirmesi, araç başına bir kez onaylanan kullanım koşulları, okunaklı sohbet filtreleri ve net katalog durumları."
+}

@@ -1,0 +1,37 @@
+{
+  "Version": "4.32.0",
+  "Packs": [
+    {
+      "Id": "translations",
+      "Title": "Çeviri kütüphanesi",
+      "Bytes": 8976710,
+      "Sha256": "6cbe0f971ecdaaa5047aeb9a73de9d194a67013509499bb08b50563242be53af",
+      "Resources": [
+        "TranslationRuntime"
+      ]
+    },
+    {
+      "Id": "capture",
+      "Title": "Klip kayıt motoru",
+      "Bytes": 425160,
+      "Sha256": "1d5694c43521f18a99ead722bfb4c9d73a5cc84af0f71629cacc8229186b4350",
+      "Resources": [
+        "CaptureNative",
+        "CaptureBridge",
+        "CaptureLicense"
+      ]
+    },
+    {
+      "Id": "neko",
+      "Title": "Neko App tanıtımı",
+      "Bytes": 1725991,
+      "Sha256": "b37df8107b7b90dfcc28e829d22817399aa9bc579a3a5fd0501223ed9d96cc14",
+      "Resources": [
+        "Neko.index.html",
+        "Neko.logo.png",
+        "Neko.poster.jpg",
+        "Neko.trailer.mp4"
+      ]
+    }
+  ]
+}

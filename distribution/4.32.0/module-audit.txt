@@ -1,0 +1,4 @@
+PASS: Core excludes translation runtime, capture engine and Neko media; all separate module resources pass embedded size/hash checks
+PASS: Tampered module is rejected; removal targets only the selected module package
+PASS: Terms start unchecked; explicit acceptance persists per tool and text hash; changed text and other tools require new acceptance
+PASS: Text-only chat filters render at 100/150/200% DPI with all three filter actions working; tool library renders
