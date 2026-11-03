@@ -1,0 +1,9 @@
+PASS: production PowerShell syntax
+PASS: read-only inspection
+PASS: IPv4/IPv6 DoH configuration with plaintext fallback disabled
+PASS: backup before mutation; repeat enable preserves original
+PASS: DHCP/static and previous provider settings restored
+PASS: partial IPv6 failure rolls back IPv4 and providers
+PASS: managed/unsupported OS rejects mutation
+PASS: external DNS edits preserved and recovery backup retained
+All changes ran against mocked Windows commands and fixture files; live network DNS was not changed.

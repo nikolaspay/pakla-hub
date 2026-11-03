@@ -1,0 +1,1 @@
+PASS: installer auto-close, launch-once, launch failure retry without reinstall; embedded payload extraction, SHA-256 verification, shortcut creation, versioned icon bytes/location, reinstall and user data preservation. No system installation performed.

@@ -1,0 +1,1 @@
+PASS: RSA signature, payload hashes, tampering and traversal rejection, downgrade rejection, apply, rollback, user-data preservation. All update operations ran in an isolated fixture.
