@@ -1,6 +1,6 @@
 {
-  "Version": "4.32.1",
-  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.1/PaklaHub-4.32.1.pakpatch",
-  "Sha256": "045aacf6f29f88ce88cecdb959a7b3452f7bfffce293ea72c224788a7a97fe2a",
-  "Notes": "4.32.1: Yenilenen mesajlar ve sunucu gezinmesi, müsaitlik durumları, üye araması ve rol renkleri, mesaj üzerinde yanıt/kopya, küçük görüşme katılımcı paneli, sekme çizim düzeltmesi ve Pakla’ya dön düğmesi. Sistem geneli Audio kurulumu ve güvenilir Windows yayıncı sertifikası henüz hazır değildir."
+  "Version": "4.32.2",
+  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.2/PaklaHub-4.32.2.pakpatch",
+  "Sha256": "696bade33d0fc0e2655dcc7d1dd3786ca035ce3c7091be7ac1bfd98481557404",
+  "Notes": "4.32.2: Neko tanıtımı kurulumla birlikte gelir; ayrı indirme ve ilk açılış onayı kaldırıldı. Klip bileşeni indirme bağlantısı düzeltildi. Yenilenen sosyal alan, müsaitlik, üye araması ve görüşme kontrolleri korunur."
 }

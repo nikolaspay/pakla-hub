@@ -1,15 +1,13 @@
 # Pakla Hub
 
-Güncel sürüm: **4.32.1**.
+Güncel sürüm: **4.32.2**.
 
-[Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe) · [Web sitesi](https://pakla-hub.vercel.app)
+[Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe) · [Web sitesi](https://pakla-hub.vercel.app/)
 
-Yeni mesajlaşma ve sunucu gezinmesi · Çevrimiçi/Boşta/Rahatsız Etmeyin/Görünmez · Üye araması ve rol renkleri · Mesaj üzerinde yanıt/kopya · Görüşme kontrolleri · Klip kütüphanesi · İsteğe bağlı ek bileşenler.
+Neko tanıtımı kurulumla hazır gelir; ayrı indirme ve ilk açılış onayı yoktur. Klip/Neko bileşenlerindeki eksik yayın dosyaları tamamlandı. Yenilenen sohbet ve sunucu gezinmesi, müsaitlik, mesaj eylemleri, klipler ve bilgisayar araçları.
 
-[Sürüm notları ve test sınırları](distribution/4.32.1/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.1/SHA256SUMS.txt)
+[Sürüm notları ve test sınırları](distribution/4.32.2/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.2/SHA256SUMS.txt)
 
-X uygulamayı tepsiye gizler; tamamen çıkış tepsi menüsündedir. Güncelleme paketleri uygulamanın RSA anahtarıyla doğrulanır. Güvenilir Windows Authenticode yayıncı sertifikası henüz yoktur; bunlar ayrı imza mekanizmalarıdır.
-
-Pakla Audio'nun sistem geneli paketi hazır değildir. Pakla DNS VPN hizmeti değildir. Çevrim içi sosyal özellikler internet ve hesap gerektirir. Ayrıntılar sürüm notlarındadır.
+X uygulamayı tepsiye gizler; tamamen çıkış tepsi menüsündedir. Güncellemeler RSA ile doğrulanır; güvenilir Windows Authenticode yayıncı sertifikası henüz yoktur. Audio mevcut sürümde Pakla Müzik oynatımını etkiler. DNS VPN değildir. Çevrim içi özellikler hesap ve internet gerektirir.
 
 Destek: supportpakla@gmail.com
