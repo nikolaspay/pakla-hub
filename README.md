@@ -1,15 +1,15 @@
 # Pakla Hub
 
-Güncel sürüm: **4.32.0**.
+Güncel sürüm: **4.32.1**.
 
-[Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe)
+[Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe) · [Web sitesi](https://pakla-hub.vercel.app)
 
-Hafif ana kurulum · İsteğe bağlı çeviri/klip motoru/Neko medyası · Araç başına kullanım koşulları · Pakla DNS · Pakla Audio · Pakla Driver · Topluluk ve DM.
+Yeni mesajlaşma ve sunucu gezinmesi · Çevrimiçi/Boşta/Rahatsız Etmeyin/Görünmez · Üye araması ve rol renkleri · Mesaj üzerinde yanıt/kopya · Görüşme kontrolleri · Klip kütüphanesi · İsteğe bağlı ek bileşenler.
 
-Çeviriler GitHub'dan oyun başına indirilir. Townfall/Reunion paketleri henüz yoktur; iki ek yükleyicinin güvenlik kapısı korunur. Katalog doğrulaması oyun içi test onayı değildir. Pakla DNS Windows 11 gerektirir. Pakla Audio yalnız Pakla Müzik sesini işler.
+[Sürüm notları ve test sınırları](distribution/4.32.1/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.1/SHA256SUMS.txt)
 
-X uygulamayı tepsiye küçültür. Tamamen çık, tepsi menüsündedir. Otomatik güncelleme açıksa uygulama yeniden başlatıldığında imzalı paket doğrulanarak alınır.
+X uygulamayı tepsiye gizler; tamamen çıkış tepsi menüsündedir. Güncelleme paketleri uygulamanın RSA anahtarıyla doğrulanır. Güvenilir Windows Authenticode yayıncı sertifikası henüz yoktur; bunlar ayrı imza mekanizmalarıdır.
 
-[Sürüm notları ve test sınırları](distribution/4.32.0/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.0/SHA256SUMS.txt)
+Pakla Audio'nun sistem geneli paketi hazır değildir. Pakla DNS VPN hizmeti değildir. Çevrim içi sosyal özellikler internet ve hesap gerektirir. Ayrıntılar sürüm notlarındadır.
 
-Windows Authenticode sertifikası yapılandırılmamıştır; RSA güncelleme imzası ayrı mekanizmadır. Kaynak kodu özel kurtarma deposunda saklanır.
+Destek: supportpakla@gmail.com

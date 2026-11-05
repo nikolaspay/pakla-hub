@@ -1,6 +1,6 @@
 {
-  "Version": "4.32.0",
-  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.0/PaklaHub-4.32.0.pakpatch",
-  "Sha256": "7f48990bdd2826264bce92c69b15a90a16d6c4dc5005e268cc727db0cb9d83bd",
-  "Notes": "4.32.0: Hafif ana kurulum, isteğe bağlı bileşenler, oyun başına GitHub yama indirmesi, araç başına bir kez onaylanan kullanım koşulları, okunaklı sohbet filtreleri ve net katalog durumları."
+  "Version": "4.32.1",
+  "Url": "https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/4.32.1/PaklaHub-4.32.1.pakpatch",
+  "Sha256": "045aacf6f29f88ce88cecdb959a7b3452f7bfffce293ea72c224788a7a97fe2a",
+  "Notes": "4.32.1: Yenilenen mesajlar ve sunucu gezinmesi, müsaitlik durumları, üye araması ve rol renkleri, mesaj üzerinde yanıt/kopya, küçük görüşme katılımcı paneli, sekme çizim düzeltmesi ve Pakla’ya dön düğmesi. Sistem geneli Audio kurulumu ve güvenilir Windows yayıncı sertifikası henüz hazır değildir."
 }
