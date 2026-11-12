@@ -1,25 +1,19 @@
 # Pakla Hub
 
-<!-- PAKLA-BETA-15 -->
-## Yeni tasarım: Pakla Hub 5.0.0 Beta 15
+## Pakla Hub 5.0 — Beta 15
 
-[**Beta 15’i indir — Windows x64**](https://github.com/nikolaspay/pakla-hub/releases/tag/v5.0.0-beta.15)
+[**Windows için ücretsiz indir — tek kurulum EXE’si**](https://github.com/nikolaspay/pakla-hub/releases/download/v5.0.0-beta.15/PaklaHub-Beta15-Kurulum.exe)
 
-Yenilenen gezinme, AI sohbeti, klip stüdyosu ve Monitor/Audio araçları. ZIP’in tamamını çıkarıp içindeki kurulumu çalıştır; ModulePackages klasörünü birlikte tut.
+[Web sitesi ve yeni tanıtım filmi](https://pakla-hub.vercel.app/) · [25 soruda Pakla / Kurulum yardımı](https://pakla-hub.vercel.app/#yardim) · [Sürüm notları](https://github.com/nikolaspay/pakla-hub/releases/tag/v5.0.0-beta.15)
 
-Bu imzasız bir ön sürümdür. Windows uyarabilir veya engelleyebilir; güvenlik korumalarını kapatmayın. Sistem geneli EQ etkin değildir. Kararlı otomatik güncelleme olarak dağıtılmaz.
+EXE’yi indirip Pakla kurulum ekranını takip et. ZIP açman veya kaynak kod indirmen gerekmez. Kurulum dosyası, mevcut Beta 15 uygulamasını ve doğrulanmış ek bileşen paketlerini taşır.
 
----
+Oyun kitaplığı, klipler, mesajlar ve topluluklar, çeviriler, Pakla AI, Clean, Game Boost, Driver, DNS, Audio ve Monitor alanları. Beta 15’te yenilenen çalışma alanları ve ortak pasif ağ örneklemesi bulunur. Sistem geneli EQ henüz etkin değildir; mevcut Audio yerel Pakla müzik oynatımını etkiler. DNS VPN değildir.
 
+**Windows / kurulum:** Yayıncı imzası henüz alınmadı. Beta 15 PaklaHub.exe için Microsoft Smart App Control incelemesi gönderildi; sonuç bekleniyor. Yeni tam kurulum EXE’si ayrıca Microsoft onaylı sayılmaz. Windows engellerse güvenlik korumalarını kapatmayın. [İndirme ve kurulum soruları](https://pakla-hub.vercel.app/#yardim)
 
-Güncel sürüm: **4.32.2**.
+**Otomatik güncelleme:** Beta 15 ana indirme sürümüdür. Eski istemcilerin otomatik güncelleme kanalı henüz bu sürüme geçirilmedi; imzalı dağıtım ve kurulum kimlikleri arasındaki geçiş doğrulaması bekleniyor. Önceki kanal 4.32.2’dir. RSA güncelleme imzası, Windows yayıncı imzasından ayrıdır.
 
-[Windows için indir](https://raw.githubusercontent.com/nikolaspay/pakla-hub/main/distribution/PaklaHub-Kurulum.exe) · [Web sitesi](https://pakla-hub.vercel.app/)
-
-Neko tanıtımı kurulumla hazır gelir; ayrı indirme ve ilk açılış onayı yoktur. Klip/Neko bileşenlerindeki eksik yayın dosyaları tamamlandı. Yenilenen sohbet ve sunucu gezinmesi, müsaitlik, mesaj eylemleri, klipler ve bilgisayar araçları.
-
-[Sürüm notları ve test sınırları](distribution/4.32.2/RELEASE-NOTES.md) · [SHA-256](distribution/4.32.2/SHA256SUMS.txt)
-
-X uygulamayı tepsiye gizler; tamamen çıkış tepsi menüsündedir. Güncellemeler RSA ile doğrulanır; güvenilir Windows Authenticode yayıncı sertifikası henüz yoktur. Audio mevcut sürümde Pakla Müzik oynatımını etkiler. DNS VPN değildir. Çevrim içi özellikler hesap ve internet gerektirir.
+[SHA-256 doğrulama dosyası](https://github.com/nikolaspay/pakla-hub/releases/download/v5.0.0-beta.15/SHA256SUMS.txt)
 
 Destek: supportpakla@gmail.com
